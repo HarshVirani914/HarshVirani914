@@ -61,3 +61,12 @@ Hi, I'm Harsh!
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9ab20bff209934f9d7249297d0e6e80d09cb419502410a1799ce296005d832b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666c6174266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b"><img src="https://camo.githubusercontent.com/9ab20bff209934f9d7249297d0e6e80d09cb419502410a1799ce296005d832b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666c6174266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b" alt="LINUX" data-canonical-src="https://img.shields.io/badge/Linux-FCC624?style=flat&amp;logo=linux&amp;logoColor=black" style="max-width: 100%;"></a>
 </p>
 <br>
+<h3 id="-currently-learning">🌱 Currently Learning</h3>
+<p>
+    <a href="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white"><img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white"></a>
+</p>
+
+<h3 id="-education">🎓 Pursuing</h3>
+<p>
+    <a href="https://www.hof-university.com/studying-at-hof-university/our-degree-programs/artificial-intelligence-and-robotics-msc.html"><img alt="Master's Degree" src="https://img.shields.io/badge/Master's%20in%20AI%20and%20Robotics-4285F4?style=flat&logo=google-scholar&logoColor=white"></a>
+</p>
