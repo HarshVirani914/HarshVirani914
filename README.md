@@ -6,7 +6,7 @@ Hi, I'm Harsh!
 </h1>
 <br>
 <p align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;pause=1000&amp;center=true&amp;vCenter=true&amp;width=435&amp;lines=Full+Stack+Web+Developer;Graduate+AI+Student" alt="Typing SVG"></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;pause=1000&amp;center=true&amp;vCenter=true&amp;width=435&amp;lines=Full+Stack+Web+Developer;+AI+Enthusiast" alt="Typing SVG"></a>
 </p>
 <hr>
 <h3 id="-programming-languages">👨‍💻 Programming Languages</h3>
