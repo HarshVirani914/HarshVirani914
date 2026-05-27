@@ -1,116 +1,128 @@
-  <h1 align="center">
-Hi, I'm Harsh! 
-	<a href="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" target="_self">
-		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-	</a>
-</h1>
+# Hi, I'm Harsh Virani 👋
 
-<p align="center">
-	<a href="https://git.io/typing-svg">
-		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;AI+%26+Machine+Learning+Engineer;Master's+Student+in+AI+%26+Robotics;Building+Intelligent+Solutions" alt="Typing SVG">
-	</a>
+**Full-stack engineer & AI systems builder** · M.Sc. AI & Robotics @ Hof University · Dean's List 2025  
+Production web apps, RAG pipelines, and agentic systems — based in Germany.
+
+<p>
+  <a href="https://harsh-virani.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/harshvirani914/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn" /></a>
+  <a href="https://github.com/HarshVirani914"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:harshvirani.91@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
-<p align="center">
-	<em>Passionate about creating intelligent web applications and exploring the frontiers of AI technology</em>
-</p>
-
-<hr />
-
-## 🤖 AI & Machine Learning
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white)
-
-![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=flat)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat&logo=groq&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat)
-![RAG](https://img.shields.io/badge/RAG-4A90E2?style=flat)
-
-## 👨‍💻 Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-
-## 🧰 Frontend Frameworks & Libraries
-
-![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=react-query&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593d88?style=flat&logo=redux&logoColor=white)
-
-## ⚙️ Backend & Development Tools
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat&logo=express&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white)
-![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat&logo=babel&logoColor=black)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white)
-![Nodemon](https://img.shields.io/badge/Nodemon-323330?style=flat&logo=nodemon&logoColor=BBDEAD)
-
-## 💳 Payment Integration
-
-![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat&logo=Stripe&logoColor=white)
-
-## 🎨 UI/UX & Styling
-
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink?style=flat&logo=SASS&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=flat&logo=bootstrap&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=flat&logo=mui&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white)
-
-## 🗄️ Databases & Vector Stores
-
-![MySQL](https://img.shields.io/badge/MySQL-00000f?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat)
-![FAISS](https://img.shields.io/badge/FAISS-FF6B00?style=flat)
-
-## 💻 Development Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)
-
-## 🌱 Currently Learning & Exploring
-
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative_AI-FF6B35?style=flat&logo=openai&logoColor=white)
-![Natural Language Processing](https://img.shields.io/badge/NLP-FF9500?style=flat)
-![RAG](https://img.shields.io/badge/RAG-4A90E2?style=flat)
-
-## 🎓 Education
-
-![Master's in AI & Robotics](https://img.shields.io/badge/Master's_in_AI_&_Robotics-4285F4?style=flat&logo=google-scholar&logoColor=white)
-
-_Currently pursuing Master's degree in Artificial Intelligence and Robotics at Hof University of Applied Sciences, Germany_
 
 ---
 
-<p align="center">
-  <em>🚀 Passionate about building intelligent applications that bridge the gap between cutting-edge AI research and real-world solutions</em>
+### Currently
+
+<p>
+  <img src="https://img.shields.io/badge/Open_to-Werkstudent_%2F_Internship-2563EB?style=flat-square" alt="Open to Werkstudent" />
+  <img src="https://img.shields.io/badge/From-April_2026-64748B?style=flat-square" alt="From April 2026" />
+  <img src="https://img.shields.io/badge/Location-Hof%2C_Germany-64748B?style=flat-square" alt="Hof Germany" />
+  <img src="https://img.shields.io/badge/Work_auth-No_sponsorship_needed-16A34A?style=flat-square" alt="No sponsorship" />
 </p>
+
+- ~15–20 hrs/week during semester · hybrid / remote / on-site
+- Building [PocketPulse](https://pocketpulse.me), agentic/RAG experiments, and coursework
+
+---
+
+### Featured work
+
+| Project | Focus |
+|--------|--------|
+| [**PocketPulse**](https://pocketpulse.me) | Production PWA — expense tracking, AI insights, offline-first |
+| [**Agentic Support**](https://agentic-support-system.vercel.app/) | LangGraph multi-agent support, RAG, 93% smaller deploy footprint |
+| [**YouTube RAG**](https://github.com/HarshVirani914/youtube-rag-app) | Video Q&A — parallel retrieval, ~45% latency reduction |
+| [**Chest X-Ray AI**](https://github.com/HarshVirani914/AI-Project) | Multi-label CV — 83.6% AUC, 14 classes |
+| [**Portfolio**](https://harsh-virani.vercel.app) | Next.js 16, WebGL backdrop, case-study project sheets |
+
+---
+
+### Skills
+
+<!-- Logos via shields.io + Simple Icons (https://simpleicons.org). No logo param = icon not available on Shields. -->
+
+**AI & agents**
+
+<p>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/RAG-412991?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/Multi--Agent_Systems-6366F1?style=flat-square" alt="Multi-Agent Systems" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-6366F1?style=flat-square" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square" alt="LangSmith" />
+  <img src="https://img.shields.io/badge/Llama_3.3-0467DF?style=flat-square&logo=meta&logoColor=white" alt="Llama 3.3" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/Groq-FF6B35?style=flat-square" alt="Groq" />
+  <img src="https://img.shields.io/badge/OpenAI_APIs-412991?style=flat-square" alt="OpenAI APIs" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=flat-square" alt="MCP" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+</p>
+
+**Backend & APIs**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic" />
+  <img src="https://img.shields.io/badge/REST_APIs-64748B?style=flat-square" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Async%2FAwait-64748B?style=flat-square" alt="Async Await" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+</p>
+
+**ML & data**
+
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/XGBoost-0B6E4F?style=flat-square" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white" alt="Qdrant" />
+  <img src="https://img.shields.io/badge/FAISS-0466C8?style=flat-square" alt="FAISS" />
+  <img src="https://img.shields.io/badge/Vector_Databases-64748B?style=flat-square" alt="Vector Databases" />
+  <img src="https://img.shields.io/badge/ETL_Pipelines-64748B?style=flat-square" alt="ETL Pipelines" />
+</p>
+
+**Cloud & DevOps**
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square" alt="AWS" />
+  <img src="https://img.shields.io/badge/S3-569A31?style=flat-square" alt="S3" />
+  <img src="https://img.shields.io/badge/CloudFront-232F3E?style=flat-square" alt="CloudFront" />
+  <img src="https://img.shields.io/badge/CodePipeline-232F3E?style=flat-square" alt="CodePipeline" />
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square" alt="Lambda" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/CI%2FCD-64748B?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
+</p>
+
+---
+
+### Background
+
+<p>
+  <img src="https://img.shields.io/badge/M.Sc.-AI_%26_Robotics-1E40AF?style=flat-square" alt="MSc AI Robotics" />
+  <img src="https://img.shields.io/badge/GPA-1.8%2F5.0-64748B?style=flat-square" alt="GPA" />
+  <img src="https://img.shields.io/badge/Dean's_List-2025-CA8A04?style=flat-square" alt="Deans List" />
+  <img src="https://img.shields.io/badge/B.Sc.-Computer_Science-64748B?style=flat-square" alt="BSc CS" />
+  <img src="https://img.shields.io/badge/CGPA-9.01%2F10-64748B?style=flat-square" alt="CGPA" />
+  <img src="https://img.shields.io/badge/English-C1-64748B?style=flat-square" alt="English C1" />
+  <img src="https://img.shields.io/badge/German-B1%2B-64748B?style=flat-square" alt="German B1+" />
+</p>
+
+- **Research:** LLM ecosystem survey · AI-augmented low-code platforms — [portfolio / about](https://harsh-virani.vercel.app/about)
