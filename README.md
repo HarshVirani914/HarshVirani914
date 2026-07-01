@@ -16,13 +16,10 @@ Production web apps, RAG pipelines, and agentic systems — based in Germany.
 
 <p>
   <img src="https://img.shields.io/badge/Open_to-Werkstudent_%2F_Internship-2563EB?style=flat-square" alt="Open to Werkstudent" />
-  <img src="https://img.shields.io/badge/From-April_2026-64748B?style=flat-square" alt="From April 2026" />
   <img src="https://img.shields.io/badge/Location-Hof%2C_Germany-64748B?style=flat-square" alt="Hof Germany" />
-  <img src="https://img.shields.io/badge/Work_auth-No_sponsorship_needed-16A34A?style=flat-square" alt="No sponsorship" />
 </p>
 
-- ~15–20 hrs/week during semester · hybrid / remote / on-site
-- Building [PocketPulse](https://pocketpulse.me), agentic/RAG experiments, and coursework
+- hybrid / remote / on-site
 
 ---
 
